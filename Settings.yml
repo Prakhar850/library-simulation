@@ -1,0 +1,46 @@
+# Settings
+
+# Library Settings
+library:
+ name : 'Jaypee University of informational technology'
+ openHour : '09.00'
+ closeHour : '17.00'
+ membershipOptions:
+   - -1
+   - 0
+ book:
+  titles: 
+  - Data Simulation
+  - networking
+  - Statistics
+  - Design analysis of algorithms
+  - Finance and Accounting
+
+ 
+
+# Student Settings
+student:
+  studentName: 
+  - Ansh
+  - Prakhar
+  - Tanmay
+  - Rishav
+  - Zaeem
+  - Gagan
+  - Rohan
+  - Aditya
+  - Kshitiz
+  - Suraj
+  studentSurname:
+  - Mehrotra
+  - Varshney
+  - Tomar
+  - Dadwal
+  - Syed
+  - Rana
+  - Kaushik
+  - Dhiman
+  - Singh
+  - Sharma
+
+
